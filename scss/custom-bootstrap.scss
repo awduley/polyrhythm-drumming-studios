@@ -1,0 +1,9 @@
+// Custom bootstrap styles
+$theme-colors: (
+   "primary": #e26000,
+   "secondary": #008c7d
+);
+
+
+// Import bootstrap
+@import '../bootstrap/scss/bootstrap';
